@@ -1,10 +1,5 @@
 # 📚 Online Bookstore SQL Project
 
-![PostgreSQL](https://img.shields.io/badge/Database-PostgreSQL-blue?logo=postgresql)
-![SQL](https://img.shields.io/badge/Language-SQL-green)
-![License](https://img.shields.io/badge/License-MIT-orange)
-![Status](https://img.shields.io/badge/Status-Completed-success)
-
 ---
 
 ## ✨ Overview
